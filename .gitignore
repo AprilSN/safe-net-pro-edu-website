@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Local server / logs
+counter.txt
